@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large scientific datasets
+*.nc
+*.nc4
+*.h5
+*.hdf5
+*.tif
+*.tiff
+
+# Generated outputs
+outputs/
+generated/
